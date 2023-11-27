@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:Github_Golearning}/golearning/golearning.db",
+            "name": "golearning"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
